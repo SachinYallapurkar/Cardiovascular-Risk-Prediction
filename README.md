@@ -1,6 +1,7 @@
 # Cardiovascular-Risk-Prediction
 
 Supervised ML (Classification) 
+![image](https://user-images.githubusercontent.com/106463464/210510880-94593930-2441-4191-9b24-426e914baa86.png)
 
 Heart disease is one the major cause of moribity and mortality globally. A heart attack happens when the flow of oxygen-rich blood to a section of heart muscle suddenly becomes blocked and the heart can’t get oxygen. If blood flow isn’t restored quickly, the section of heart muscle begins to die.
 
